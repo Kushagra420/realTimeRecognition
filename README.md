@@ -11,4 +11,5 @@ run setup.py
 run git clone https://github.com/tensorflow/models inside Tensorflow
 go to Tensorflow\models\research\object_detection\packages choose your tf version and run the setup in the main directory.(/realTimeRecagnition in this case)
 
-
+# run train.ipynb
+after 6. Train the model, copy output and paste in terminal(main directory)
