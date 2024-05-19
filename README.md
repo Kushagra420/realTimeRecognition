@@ -1,4 +1,5 @@
 # realTimeRecognition
+if jupyter notebook not visible on github use https://nbviewer.jupyter.org/ and paste the link there
 using:
 - Python 3.9.19
 - Tensorflow 2.10.1
